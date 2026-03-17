@@ -1,11 +1,6 @@
-# Hey 👋 What's up?
+# Hi 👋
 
-My name is Martha (she/her) and I'm a graduate student from Toronto, Canada 🇨🇦
-
-## About Me
-
-- 🔭 I’m currently working on analyzing single nucleus RNA sequencing data using the Seurat workflow
-- 📚 I'm currently learning how to make machine learning models using the R package caret
+My name is Martha (she/her) and I'm from Toronto, Canada 🇨🇦
 
 ## I code with:
 
